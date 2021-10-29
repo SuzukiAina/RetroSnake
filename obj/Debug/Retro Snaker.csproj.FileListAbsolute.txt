@@ -1,0 +1,40 @@
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csprojAssemblyReference.cache
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.FormMain.resources
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.Properties.Resources.resources
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.GenerateResource.cache
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.CoreCompileInputs.cache
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe.config
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.pdb
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.exe
+C:\Users\爱喵喵喵喵喵\source\repos\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.pdb
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe.config
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.pdb
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csprojAssemblyReference.cache
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.FormMain.resources
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.Properties.Resources.resources
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.GenerateResource.cache
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.CoreCompileInputs.cache
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.exe
+C:\Users\renqi\Desktop\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.pdb
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe.config
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.pdb
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csprojAssemblyReference.cache
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.FormMain.resources
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.Properties.Resources.resources
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.GenerateResource.cache
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.CoreCompileInputs.cache
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.exe
+C:\Users\爱喵喵喵喵喵\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.pdb
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe.config
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.exe
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\bin\Debug\Retro Snaker.pdb
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csprojAssemblyReference.cache
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.FormMain.resources
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro_Snaker.Properties.Resources.resources
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.GenerateResource.cache
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.csproj.CoreCompileInputs.cache
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.exe
+C:\Users\renqi\OneDrive\Retro Snaker\Retro Snaker\obj\Debug\Retro Snaker.pdb
